@@ -1,3 +1,6 @@
+### Functions in Python Programming
 This Project is a tutorial on how to create functions in python
-step 1 
-step 2
+
+Step 1
+
+Step 2
